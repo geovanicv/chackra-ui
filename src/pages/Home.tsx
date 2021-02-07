@@ -30,8 +30,8 @@ const Home = () => {
           <ThemeSelector />
         </Box>
         <Box textAlign="center">
-          <Heading my={4}>Fazer login na sua conta</Heading>
-          <Text>Ou <Link color="teal.500">comece grátis por 14 dias</Link></Text>
+          <Heading my={4}>Faça login na sua conta</Heading>
+          <Text>ou <Link color="teal.500">comece grátis por 14 dias</Link></Text>
         </Box>
 
         <Box as="form" my={8}>
